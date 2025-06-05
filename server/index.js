@@ -46,7 +46,7 @@ app.post("/upload", upload.array("files"), (req, res) => {
     files: req.files.map((f) => ({
       name: f.originalname,
       path: f.path,
-      url: `http://localhost:5000/${f.path}`,
+      url: `https://online-clipboard-z9bd.onrender.com/${f.path}`,
       mimetype: f.mimetype,
     })),
     createdAt: new Date(),
