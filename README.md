@@ -1,4 +1,4 @@
-# 📋 Online Clipboard (React + Vite)
+# 📋 Online Apna-Clipboard (React + Vite)
 
 An **Online Apna-Clipboard App** built using **React + Vite**, where users can copy, paste, and share text across devices in real-time.  
 
